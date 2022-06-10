@@ -27,6 +27,7 @@ Boom ! , Then
 - It asks `You want to see Web Scrapped data (y / n)` , say yes as `y` .
   ![demo3](img/demo3.png)
 
+
 ---
 
 **Made By [Junaid](https://abujuni.dev) .**
